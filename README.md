@@ -1,4 +1,4 @@
-# SimpleAI
+# SimpleAgent
 
 A Python AI agent that executes CLI commands and explores your system using OpenAI tool calling.
 
