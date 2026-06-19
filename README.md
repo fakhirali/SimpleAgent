@@ -25,3 +25,7 @@ export OPENAI_API_KEY="your_key"
 Features: CLI command execution, tool calling, thinking blocks, interactive mode.
 
 For details: see `agent.py` and `.gitignore`.
+
+## 📝 Instruction
+
+**Important**: Within your thinking block, articulate your thoughts. Then prepare your final answer in a separate block without introducing your thoughts in it.
